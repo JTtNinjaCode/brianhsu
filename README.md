@@ -7,8 +7,4 @@ A college student, studying computer science at National Taiwan University of Sc
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,docker,vscode,visualstudio,flask,mysql,sqlite,linux)](https://skillicons.dev)
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100026307275569" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/JTtNinjaCode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,haskell,md,neovim,vscode,docker,ubuntu,arch,linux)](https://skillicons.dev)
